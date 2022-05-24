@@ -47,4 +47,4 @@ btns.forEach(el=>{
 
 
 
-console.log(visitCount)
+console.log(visitCount);
